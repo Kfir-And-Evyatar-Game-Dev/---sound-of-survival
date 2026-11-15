@@ -40,3 +40,7 @@ Game idea #1 Assignment 1 part b
 *המשחק נמצא בשלב התכנון במסגרת הקורס פיתוח משחקי מחשב. ציורי מסך של המשחק יתווספו בהמשך.*
 
 
+
+## Unity prototype
+
+Open this repository as a Unity 6000.3.27f1 project, then open the Warehouse scene and press Play. See the [Unity setup and controls](README-Unity.md).
